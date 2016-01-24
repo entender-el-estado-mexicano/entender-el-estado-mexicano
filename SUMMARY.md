@@ -1,7 +1,6 @@
 # Summary
 =======
 
-* Introducción
 * [Parte I. El Estado mexicano](estado-mexicano.md)
     * [¿Estado o nación?](estado-mexicano/estado-o-nacion.md)
     * [Hablando de gobierno](estado-mexicano/hablando-de-gobierno.md)
