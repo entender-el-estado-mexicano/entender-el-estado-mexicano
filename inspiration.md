@@ -11,3 +11,4 @@
 * https://cursunamcanada.wikispaces.com/M%C3%B3dulo+1
 * http://www.juridicas.unam.mx/publica/librev/rev/mexder/cont/6/cnt/cnt1.pdf
 * http://www.senado.gov.co/legales/itemlist/category/206-congreso-para-ni%C3%B1os
+* https://www.scjn.gob.mx/conocelacorte/Paginas/cs_publicaciones.aspx
